@@ -1,4 +1,4 @@
-package oop;
+package intro;
 
 public class Ssd {
     private int value;

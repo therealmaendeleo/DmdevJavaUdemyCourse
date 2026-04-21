@@ -1,4 +1,4 @@
-package oop.homework;
+package intro.homework;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;

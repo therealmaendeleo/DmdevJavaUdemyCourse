@@ -1,4 +1,4 @@
-package oop.task;
+package intro.task;
 
 public class TimeInterval {
     public static final int SECONDS_IN_HOUR = 3600;

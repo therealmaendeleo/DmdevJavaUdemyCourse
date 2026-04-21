@@ -1,4 +1,4 @@
-package oop;
+package intro;
 
 public class Computer {
     private Ram ram;

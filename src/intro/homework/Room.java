@@ -1,4 +1,4 @@
-package oop.homework;
+package intro.homework;
 
 public class Room {
     private int number;

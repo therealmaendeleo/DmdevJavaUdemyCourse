@@ -1,4 +1,4 @@
-package oop;
+package intro;
 
 public class Ram {
     private int value;

@@ -1,4 +1,4 @@
-package oop;
+package intro;
 
 public class TestExample {
     static void main() {

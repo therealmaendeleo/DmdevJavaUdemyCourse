@@ -1,4 +1,4 @@
-package oop.task;
+package intro.task;
 
 /**
  * Создать класс, описывающий промежуток времени.

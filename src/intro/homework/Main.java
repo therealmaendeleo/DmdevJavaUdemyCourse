@@ -1,4 +1,4 @@
-package oop.homework;
+package intro.homework;
 
 /**
  * Представить в виде классов и их композиции следующую модель.
