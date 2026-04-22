@@ -1,4 +1,4 @@
-package oop.practice;
+package oop.practice1;
 
 public class Zombie extends Enemy {
     private int rebornHealth;

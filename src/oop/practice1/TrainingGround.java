@@ -1,4 +1,4 @@
-package oop.practice;
+package oop.practice1;
 
 public class TrainingGround {
     static void main() {

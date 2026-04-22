@@ -1,4 +1,4 @@
-package oop.practice;
+package oop.practice1;
 
 public abstract class Hero implements Mortal {
     protected String name;
